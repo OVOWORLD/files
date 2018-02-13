@@ -9,7 +9,7 @@ int main( )
    float b = 68.123; 
    char c = 'J';
    
-   ofstream myfile{"text.txt"};
+   ofstream myfile{"abc.txt"};
    if(myfile)
    {
  
